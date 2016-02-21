@@ -1,0 +1,1 @@
+A basic .obj loader and viewer written in python for the first iteration, and soon a Qt version.
